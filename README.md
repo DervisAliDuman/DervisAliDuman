@@ -4,7 +4,7 @@ I am great teamplayer. I good at Object Oriented programming, problem(algorithm)
 
 Skills: JAVA / C / C++ / JAVASCRIPT / VUE JS / ANDROID STUDIO / PYTHON / ASSEMBLY / CSS / HTML / VERILOG / PROLOG / LISP
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DervisAliDuman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background-color: coral>](https://www.linkedin.com/in/https://www.linkedin.com/in/derviss//)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' background-color: pink>](https://github.com/DervisAliDuman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' background-color: pink>](https://www.linkedin.com/in/https://www.linkedin.com/in/derviss//)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DervisAliDuman)](https://github.com/anuraghazra/github-readme-stats)
 
