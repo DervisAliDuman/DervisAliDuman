@@ -1,7 +1,18 @@
-### Hi there 👋, my name is Derviş Ali
-#### I am Currently Computer Engineer
-I am great teamplayer. I good at Object Oriented programming, problem(algorithm) solving. Worked on software for 5+ years on my own in University and learned every types of programming languages (Impreative, Declarative, OOP, Logical...). I also analyze everything around me all the time and it's give me ability of catching details and strong decision making. I can work even under pressure with work ethic. I am hardworker and fast learner.
+👋 Hi there, I'm Derviş Ali Duman
+💻 Software Engineer | C++ & PostgreSQL Developer
 
-Skills: JAVA / C / C++ / JAVASCRIPT / VUE JS / ANDROID STUDIO / PYTHON / ASSEMBLY / CSS / HTML / VERILOG / PROLOG / LISP
+I’m a software engineer with hands-on experience in C++, database systems, and embedded development.
+Currently, I work as a PostgreSQL kernel developer at Huawei, focusing on core database internals, testing, and high-reliability environments.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' >](https://github.com/DervisAliDuman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40' >](https://www.linkedin.com/in/derviss//)  
+Previously, I contributed to the 5G base station architecture at ULAK Communication and developed OpenWrt-based embedded network devices at Andasis, working on both user-space and kernel-space C code.
+
+I’m passionate about system programming, performance optimization, and clean software design. I enjoy solving complex problems and writing efficient, maintainable, and well-documented code.
+
+“If you didn’t document your work, then it never happened.”
+
+Skills:
+C++ • C • Python • Java • JavaScript • Vue.js • PostgreSQL • Bash • Linux • Docker • OpenWrt • System Programming
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
+
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>
