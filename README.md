@@ -10,14 +10,6 @@ I’m passionate about system programming, performance optimization, and clean s
 
 “If you didn’t document your work, then it never happened.”
 
-🧠 Tech Stack
+Tech Stack
 
 C++ • C • Python • PostgreSQL • Java • JavaScript • Vue.js • Bash • Linux • Docker • OpenWrt • System Programming
-
-📈 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=DervisAliDuman&show_icons=true&theme=github_dark&hide_border=true&count_private=true&include_all_commits=true" height="180em"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DervisAliDuman&layout=compact&theme=github_dark&hide_border=true" height="180em"/> </p>
-🌍 Connect with me
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='GitHub' height='30'>
-
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='LinkedIn' height='30'>
